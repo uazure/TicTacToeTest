@@ -22,4 +22,5 @@ $ bower install
 1. `gulp` - alias for `gulp watch`
 2. `gulp watch` - to run development server
 3. `gulp clean` - to clean all files
+4. `gulp wiredep` - to popuplate bower dependencies into the templates
 # TicTacToeTest

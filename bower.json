@@ -1,0 +1,19 @@
+{
+  "name": "devpro_test_task",
+  "private": true,
+  "dependencies": {
+    "jasmine": "~2.3.4",
+    "jasmine-jquery": "~2.1.0",
+    "angular": "~1.4.7",
+    "bootstrap": "~3.3.5",
+    "angular-mocks": "~1.4.7"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "dist/css/bootstrap.css",
+        "dist/js/bootstrap.js"
+      ]
+    }
+  }
+}
